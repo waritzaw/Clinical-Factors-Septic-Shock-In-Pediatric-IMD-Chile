@@ -1,4 +1,4 @@
-CLINICAL FACTORS ASSOCIATED WITH SEPTIC SHOCK OR MORTALITY IN PEDIATRIC INVASIVE MENINGOCOCCAL DISEASE: A RETROSPECTIVE STUDY FROM TWO TERTIARY HOSPITALS IN CHILE, 2009-2025.
+CLINICAL FACTORS ASSOCIATED WITH SEPTIC SHOCK IN PEDIATRIC INVASIVE MENINGOCOCCAL DISEASE: A RETROSPECTIVE STUDY FROM TWO TERTIARY HOSPITALS IN CHILE, 2009-2025.
 
 Overview
 This repository contains a reproducible statistical analysis of factors associated with septic shock or death among pediatric patients with invasive meningococcal disease (IMD). The workflow was developed to address methodological concerns related to small-sample multivariable modeling, separation, variable selection, missing data, and model stability.
