@@ -1,5 +1,5 @@
 ---
-title: "Septic-Shock-or-Mortality-in-Pediatric-Invasive-Meningococcal-Disease"
+title: "Septic-Shock-in-Pediatric-Invasive-Meningococcal-Disease"
 author: "Research Team"
 date: "`r format(Sys.Date(), '%Y-%m-%d')`"
 output:
