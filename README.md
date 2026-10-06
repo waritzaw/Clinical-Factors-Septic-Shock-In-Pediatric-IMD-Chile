@@ -5,7 +5,7 @@ This repository contains a reproducible statistical analysis of factors associat
 The repository uses only the simulated dataset **"simulated_pediatric_IMD_data.csv"**. No real patient-level or confidential clinical data are included.
 
 
-#### Objectives
+### Objectives
 The analysis aims to:
 - Estimate factors associated with the composite outcome of septic shock or death;
 
@@ -24,7 +24,7 @@ The analysis aims to:
 This project is intended as an explanatory association analysis, not as the development or external validation of a clinical prediction model.
 
 
-#### Files
+### Files
 - simulated_pediatric_IMD_data.csv: Simulated pediatric IMD dataset used to reproduce the workflow without disclosing confidential patient data.
 
 - pediatric-imd-risk-analysis.Rmd: Complete analysis, including statistical methods, tables, figures, sensitivity analyses, and information on reproducibility.
